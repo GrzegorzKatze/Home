@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+*.suo
+/dev/ConsoleApplication/ConsoleApplication/ConsoleApplication/bin/Debug/netcoreapp1.1
+/dev/ConsoleApplication/ConsoleApplication/ConsoleApplication/obj
